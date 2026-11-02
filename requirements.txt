@@ -1,0 +1,5 @@
+
+requests
+beautifulsoup4
+pandas
+hdfs==2.7.3
